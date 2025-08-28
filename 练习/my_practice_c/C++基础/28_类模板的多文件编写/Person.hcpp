@@ -1,0 +1,13 @@
+#include "Person.h"
+
+template<class T>
+Person<T>::Person(T age)
+{
+	this->mage = age;
+}
+
+template<class T>
+void Person<T>::Show()
+{
+	cout << this->mage;
+}

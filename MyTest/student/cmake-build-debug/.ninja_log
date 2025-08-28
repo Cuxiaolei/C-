@@ -1,0 +1,26 @@
+# ninja log v6
+25	1817	7578541134590196	CMakeFiles/main.dir/Statistics.cpp.obj	159f0890b8e983c
+36	1042	7577451290263372	CMakeFiles/main.dir/Grade.cpp.obj	47b6fb0966d4e942
+7	1551	7577905274424862	CMakeFiles/main.dir/Login.cpp.obj	5a7516b175ba616b
+10	1740	7578541134437505	CMakeFiles/main.dir/main.cpp.obj	f16bec9d40b58618
+15	1762	7578541134487997	CMakeFiles/main.dir/Admin.cpp.obj	31e24e437b17e10
+5	635	7577891489738187	CMakeFiles/main.dir/Student.cpp.obj	8aa54987396260cd
+19	1998	7578541134538976	CMakeFiles/main.dir/Information.cpp.obj	9ce6565bd3175eb5
+2033	3043	7578541154681697	main.exe	dc768209bd9dc99c
+30	2033	7578541134646895	CMakeFiles/main.dir/Teacher.cpp.obj	96062383ca776721
+30	1341	7577891366825393	CMakeFiles/main.dir/Export.cpp.obj	c6657547d179580c
+1	273	7577802130785827	build.ninja	d2e9a48cf20368df
+33	593	7577887043804832	CMakeFiles/main.dir/User.cpp.obj	17223c6eeabee558
+35	1744	7578541134687756	CMakeFiles/main.dir/Logger.cpp.obj	c1b4df99c1e156b2
+43	1741	7578541134769858	CMakeFiles/main.dir/Announcement.cpp.obj	d27b229ee7e91e41
+67	1170	7578670393400800	CMakeFiles/main.dir/Export.cpp.obj	c6657547d179580c
+81	1436	7578670393550082	CMakeFiles/main.dir/Announcement.cpp.obj	d27b229ee7e91e41
+76	1463	7578670393494225	CMakeFiles/main.dir/Logger.cpp.obj	c1b4df99c1e156b2
+23	1523	7578670392973126	CMakeFiles/main.dir/Login.cpp.obj	5a7516b175ba616b
+62	1565	7578670393354683	CMakeFiles/main.dir/Admin.cpp.obj	31e24e437b17e10
+71	1831	7578670393446167	CMakeFiles/main.dir/Information.cpp.obj	9ce6565bd3175eb5
+1831	2362	7578670411047336	main.exe	dc768209bd9dc99c
+7	992	7578674349774941	CMakeFiles/main.dir/Export.cpp.obj	c6657547d179580c
+993	1466	7578674359636087	main.exe	dc768209bd9dc99c
+6	970	7578675679206439	CMakeFiles/main.dir/Export.cpp.obj	c6657547d179580c
+971	1450	7578675688849716	main.exe	dc768209bd9dc99c
